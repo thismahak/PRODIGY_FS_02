@@ -99,3 +99,4 @@ This **Employee Management System** provides a user-friendly interface for **adm
 
   - npm start
   - *The frontend will be available at http://localhost:3000.*
+### **You can manually add admin username and hashed password on your mongodb database to test the functionality on your system**
