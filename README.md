@@ -76,3 +76,26 @@ This **Employee Management System** provides a user-friendly interface for **adm
    ```bash
    git clone https://github.com/thismahak/PRODIGY_FS_02.git
    cd PRODIGY_FS_02
+### **Install backend dependencies:**
+
+- npm install
+### **Set up environment variables in .env:**
+
+- MONGODB_URI=your-mongodb-uri
+- JWT_SECRET=your-jwt-secret
+### **Start the backend server:**
+
+- npm start
+- The backend will be running at http://localhost:5000.
+### **Running the Frontend:**
+- *Navigate to the frontend folder:*
+
+  - cd frontend
+    
+- *Install frontend dependencies:*
+
+  - npm install
+- *Start the frontend server:*
+
+  - npm start
+  - *The frontend will be available at http://localhost:3000.*
